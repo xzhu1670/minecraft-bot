@@ -1,11 +1,6 @@
 # Minecraft bot
-description
 
-## Chop tree
-
-description
-description
 
 
 ## feature
-1. description
+1. Tree chopping
